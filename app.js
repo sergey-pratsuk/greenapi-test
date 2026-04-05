@@ -1,4 +1,4 @@
-const apiUrl = 'https://green-api.com';
+const apiUrl = 'https://7107.api.greenapi.com';
 
 async function request(method, body = null) {
     const id = document.getElementById('idInstance').value;
